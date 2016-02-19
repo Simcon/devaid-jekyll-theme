@@ -1,8 +1,6 @@
-devAid theme from Xiaoying Riley, adopted to Jekyll
+Original devAid theme created by [Xiaoying Riley](https://github.com/xriley) - [Link](https://github.com/xriley/devAid-Theme)
 
-early stage, pls open issue if you need any updates
+Adapted for Jekyll by [Sergey Karatkevich](https://github.com/kevit) - [Link](https://github.com/kevit/devaid-jekyll-theme)
 
-[Download](https://github.com/kevit/devaid-jekyll-theme/blob/master/archive.tar.bz2).
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kevit/devaid-jekyll-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Blog functionality by [Paul Cook](https://github.com/simcon) - [Link](https://github.com/Simcon/devaid-jekyll-theme)
 

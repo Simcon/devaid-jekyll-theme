@@ -6,12 +6,11 @@
 <body data-spy="scroll">
 {% include facebook.html %}
 {% include header.html %}
-{% include promo.html %}
-{% include about.html %}
-{% include features.html %}
-{% include docs.html %}
-{% include license.html %}
-{% include contact.html %}
+<!--this contains some 'barrier' to separate the content from the rest of the world-->
+{% include promo.html %} 
+
+{{ page.content }}
+
 {% include footer.html %}
 </body>
 </html> 
