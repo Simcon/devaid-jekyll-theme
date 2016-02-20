@@ -2,7 +2,6 @@ _site
 
 #jekyll installation
 _config.yml
-_posts/
 _sass/
 about.md
 feed.xml
